@@ -12,7 +12,7 @@ order: 4
 
 **한보경 (Bokyoung Han)** <br>
 M.S Student <br>
-Computer ARchitecture & Embedded System Lab**(CARES)** <br>
+Computer ARchitecture & Embedded System Lab **(CARES)** <br>
 Department of Computer Science and Engineering <br>
 Seoul National University **(SNU)**
 
@@ -25,10 +25,10 @@ Seoul National University **(SNU)**
  - **M.S., Computer Science and Engineering** (2020∼ )  
     - Seoul National University [(SNU)](https://www.snu.ac.kr/), Korea  
 	- Computer ARchitecture & Embedded Systems Lab [(CARES)](http://cares.snu.ac.kr)  
-	- Advisor : Prof. Jihong Kim  
+	- Advisor: Prof. Jihong Kim  
  - **B.S., Computer Science and Engineering** (2015∼ 2020)  
     - Handong Global Univertiy [(HGU)](https://www.hisnet.handong.edu/), Korea  
-	- Research to Advaned SW Reliability, Security & Safety [(ARISE)](http://arise.handong.edu) (2018)  
+	- Research to Advaned SW Reliability, Security & Safety [(ARISE)](http://arise.handong.edu)
 	- Advisor: Prof. Shin Hong  
 
 ## Personal History
