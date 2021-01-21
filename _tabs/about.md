@@ -10,18 +10,13 @@ order: 4
 # MIT License
 ---
 
-#> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
-
-한보경 (Bokyoung Han)
-M.S Student
-[Computer ARchitecture & Embedded System Lab](http://cares.snu.ac.kr)**(CARES)**
-Department of Computer Science and Engineering  
+**한보경 (Bokyoung Han)** <br>
+M.S Student <br>
+[Computer ARchitecture & Embedded System Lab](http://cares.snu.ac.kr)**(CARES)** <br>
+Department of Computer Science and Engineering <br>
 Seoul National University (SNU)  
 
-## Objective
-To develop my ability in the Computer Engineering field and to obtain a professional position utilizing my problem-solving skills and research experience
-
-##Interests
+## Interests
  - Computer Architecture
  - Embedded System
  - Machine Learning
@@ -33,11 +28,11 @@ bkhan@davinci.snu.ac.kr
  - **M.S., Computer Science and Engineering** (2020∼ )  
     - [Seoul National University](https://www.snu.ac.kr/) (SNU), Korea  
 	- [Computer ARchitecture & Embedded Systems Lab](http://cares.snu.ac.kr) (CARES)  
-	- Advisor : Jihong Kim  
+	- Advisor : Prof. Jihong Kim  
  - **B.S., Computer Science and Engineering** (2015∼ 2020)  
-    - [HGU](https://www.hisnet.handong.edu/) (Handing Global University), Korea  
-	- Undergraduate Researcher at [ARISE](http://arise.handong.edu)(2018)  
-	- Advisor: Shin Hong  
+    - [Handong Global Univertiy](https://www.hisnet.handong.edu/) (HGU), Korea  
+	- Undergraduate Researcher at [ARISE](http://arise.handong.edu) (2018)  
+	- Advisor: Prof. Shin Hong  
 
 ## Personal History
 - Grand Prize, KISA, Oct 2018
