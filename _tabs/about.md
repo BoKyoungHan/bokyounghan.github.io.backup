@@ -12,26 +12,23 @@ order: 4
 
 **한보경 (Bokyoung Han)** <br>
 M.S Student <br>
-[Computer ARchitecture & Embedded System Lab](http://cares.snu.ac.kr)**(CARES)** <br>
+Computer ARchitecture & Embedded System Lab**(CARES)** <br>
 Department of Computer Science and Engineering <br>
-Seoul National University (SNU)  
+Seoul National University **(SNU)**
 
 ## Interests
  - Computer Architecture
  - Embedded System
  - Machine Learning
 
-## Contact Information
-bkhan@davinci.snu.ac.kr
-
 ## Education
  - **M.S., Computer Science and Engineering** (2020∼ )  
-    - [Seoul National University](https://www.snu.ac.kr/) (SNU), Korea  
-	- [Computer ARchitecture & Embedded Systems Lab](http://cares.snu.ac.kr) (CARES)  
+    - Seoul National University [(SNU)](https://www.snu.ac.kr/), Korea  
+	- Computer ARchitecture & Embedded Systems Lab [(CARES)](http://cares.snu.ac.kr)  
 	- Advisor : Prof. Jihong Kim  
  - **B.S., Computer Science and Engineering** (2015∼ 2020)  
-    - [Handong Global Univertiy](https://www.hisnet.handong.edu/) (HGU), Korea  
-	- Undergraduate Researcher at [ARISE](http://arise.handong.edu) (2018)  
+    - Handong Global Univertiy [(HGU)](https://www.hisnet.handong.edu/), Korea  
+	- Research to Advaned SW Reliability, Security & Safety [(ARISE)](http://arise.handong.edu) (2018)  
 	- Advisor: Prof. Shin Hong  
 
 ## Personal History
@@ -41,3 +38,8 @@ bkhan@davinci.snu.ac.kr
    - PHP 보안 약점 정적 분석기 도구 개발
 - CSTS (Certified Software Test Specialist), TTA, Sep 2018
    - TTA 한국정보통신기술협회 주최 ‘CSTS SW테스트 전문가 자격증 일반 등급 (Foundation Level) 자격증’ 취득
+
+## Contact
+- Email: bkhan@davinci.snu.ac.kr
+- Git: https://github.com/BoKyoungHan
+- Blog: https://bokyounghan.github.io/
