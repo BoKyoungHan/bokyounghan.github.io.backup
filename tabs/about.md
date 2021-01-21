@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-## Info
+# Info
 **한보경 (Bokyoung Han)** <br>
 M.S Student <br>
 Computer ARchitecture & Embedded System Lab **(CARES)** <br>
