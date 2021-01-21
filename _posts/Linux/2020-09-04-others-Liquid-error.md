@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[기타] jekyll Liquid error (line 6): comparison of Array with Array failed in ~"
-categories: [Others]
+categories: [Linux]
 tags: [tips]
 
 ---
