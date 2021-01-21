@@ -6,6 +6,8 @@ tags: [tips]
 
 ---
 
+## find
+
 오늘 겪은 jekyll build failed 에 대해 간략하게 해결 방법을 적고자 한다.
 
 먼저 내가 마주한 build failed 의 원인은
