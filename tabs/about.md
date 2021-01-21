@@ -1,7 +1,5 @@
 ---
-title: About Me
-icon: fas fa-info
-order: 4
+title: About
 
 # The About page
 # v2.0
@@ -10,6 +8,7 @@ order: 4
 # MIT License
 ---
 
+## Info
 **한보경 (Bokyoung Han)** <br>
 M.S Student <br>
 Computer ARchitecture & Embedded System Lab **(CARES)** <br>
