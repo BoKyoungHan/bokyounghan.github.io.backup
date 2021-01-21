@@ -7,13 +7,12 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: 경구                          # the main title
+title: BoKyoung                          # the main title
 
-tagline: 내가 보려고 만든 깃블로그   # it will display as the sub-title
+tagline: M.S student in CSEE   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
     컴공 대학원생이 트러블슈팅과 공부한 이런저런 것들을 올립니다. 
-    부캐로 클라이밍 꿈나무를 키웁니다.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://bokyounghan.github.io'
