@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[기타] jekyll Liquid error (line 6): comparison of Array with Array failed in ~"
+title: "[Linux] find 명령어"
 categories: [Linux]
 tags: [tips]
 
