@@ -37,7 +37,7 @@ Seoul National University **(SNU)**
 - Capstone Project, Jan 2018 - Oct 2019
    - PHP 보안 약점 정적 분석기 도구 개발
 - CSTS (Certified Software Test Specialist), TTA, Sep 2018
-   - TTA 한국정보통신기술협회 주최 ‘CSTS SW테스트 전문가 자격증 일반 등급 (Foundation Level) 자격증’ 취득
+   - Acquisition of "CSTS SW Test Expert Certificate, Foundation Level" hosted by TTA
 
 ## Contact
 - Email: bkhan@davinci.snu.ac.kr
