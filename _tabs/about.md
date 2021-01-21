@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 icon: fas fa-info
 order: 4
 
@@ -10,5 +10,39 @@ order: 4
 # MIT License
 ---
 
+#> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+한보경 (Bokyoung Han)
+M.S Student
+[Computer ARchitecture & Embedded System Lab](http://cares.snu.ac.kr)**(CARES)**
+Department of Computer Science and Engineering  
+Seoul National University (SNU)  
+
+## Objective
+To develop my ability in the Computer Engineering field and to obtain a professional position utilizing my problem-solving skills and research experience
+
+##Interests
+ - Computer Architecture
+ - Embedded System
+ - Machine Learning
+
+## Contact Information
+bkhan@davinci.snu.ac.kr
+
+## Education
+ - **M.S., Computer Science and Engineering** (2020∼ )  
+    - [Seoul National University](https://www.snu.ac.kr/) (SNU), Korea  
+	- [Computer ARchitecture & Embedded Systems Lab](http://cares.snu.ac.kr) (CARES)  
+	- Advisor : Jihong Kim  
+ - **B.S., Computer Science and Engineering** (2015∼ 2020)  
+    - [HGU](https://www.hisnet.handong.edu/) (Handing Global University), Korea  
+	- Undergraduate Researcher at [ARISE](http://arise.handong.edu)(2018)  
+	- Advisor: Shin Hong  
+
+## Personal History
+- Grand Prize, KISA, Oct 2018
+   - KISA (한국인터넷진흥원) 주최 제 5회 ‘소프트웨어(SW)개발보안 경진대회’ 최수우상 (행정안전부장관상) 수상
+- Capstone Project, Jan 2018 - Oct 2019
+   - PHP 보안 약점 정적 분석기 도구 개발
+- CSTS (Certified Software Test Specialist), TTA, Sep 2018
+   - TTA 한국정보통신기술협회 주최 ‘CSTS SW테스트 전문가 자격증 일반 등급 (Foundation Level) 자격증’ 취득
