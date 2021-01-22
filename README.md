@@ -1,6 +1,6 @@
-### [탤로우 월드 블로그](https://taehyungk.github.io/)
+### [보경의 깃블로그](https://bokyounghan.github.io/)
 
-- 꾸준히 기록하며 기억하게 하는 블로그를 만들자
+- 내가 보려고 만든 블로그
 
 
 #### 참고 사항
